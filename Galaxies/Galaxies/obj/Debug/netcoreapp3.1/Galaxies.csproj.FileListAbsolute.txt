@@ -1,0 +1,13 @@
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.csprojAssemblyReference.cache
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.AssemblyInfoInputs.cache
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.AssemblyInfo.cs
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.csproj.CoreCompileInputs.cache
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.exe
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.deps.json
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.runtimeconfig.json
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.runtimeconfig.dev.json
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.dll
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\bin\Debug\netcoreapp3.1\Galaxies.pdb
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.dll
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.pdb
+C:\Users\Hristina\Desktop\University\Viko\Galaxies\Galaxies\obj\Debug\netcoreapp3.1\Galaxies.genruntimeconfig.cache
